@@ -1,5 +1,6 @@
-##### 更新时间2023-02-27 12:08:17 #####
+##### 更新时间2023-03-01 12:07:57 #####
 
+151.101.1.69	stackoverflow.com
 151.101.1.69	stackexchange.com
 151.101.1.69	cdn.sstatic.net
 151.101.1.229	cdn.jsdelivr.net
@@ -8,7 +9,7 @@
 104.24.176.7	cdnjs.com
 104.17.24.14	cdnjs.cloudflare.com
 104.80.92.84	sdlc-esd.oracle.com
-23.200.44.74	download.oracle.com
+23.197.184.74	download.oracle.com
 104.16.168.131	hcaptcha.com
 104.16.168.131	www.hcaptcha.com
 104.16.168.131	assets.hcaptcha.com
@@ -17,7 +18,7 @@
 104.18.22.122	cf-assets.hcaptcha.com
 104.16.168.131	js.hcaptcha.com
 104.16.168.131	api.hcaptcha.com
-172.253.122.94	recaptcha.net
+142.250.11.94	recaptcha.net
 172.217.8.164	api.recaptcha.net
 172.217.1.36	api-verify.recaptcha.net
 172.217.5.4	mailhide.recaptcha.net
@@ -37,7 +38,7 @@
 13.107.237.40	logincdn.msauth.net
 13.107.237.40	acctcdn.msauth.net
 20.190.154.17	login.live.com
-40.90.130.198	storage.live.com
+40.90.130.207	storage.live.com
 13.107.43.12	public.bn.files.1drv.com
 23.62.165.205	storeedgefd.dsx.mp.microsoft.com
 184.84.225.226	store-images.s-microsoft.com
@@ -50,10 +51,10 @@
 140.82.113.26	live.github.com
 140.82.114.18	status.github.com
 3.5.1.128	github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.28.196	github-production-user-asset-6210df.s3.amazonaws.com
-140.82.112.3	github.com
-140.82.112.3	www.github.com
-140.82.114.26	alive.github.com
+3.5.7.115	github-production-user-asset-6210df.s3.amazonaws.com
+140.82.112.4	github.com
+140.82.113.4	www.github.com
+140.82.114.25	alive.github.com
 140.82.114.21	collector.githubapp.com
 185.199.108.154	github.githubassets.com
 140.82.113.17	help.github.com
@@ -72,7 +73,8 @@
 185.199.108.154	docs.github.com
 140.82.112.29	githubapp.com
 140.82.112.10	codeload.github.com
-3.5.29.127	github-com.s3.amazonaws.com
+140.82.112.10	nodeload.github.com
+52.216.12.20	github-com.s3.amazonaws.com
 3.5.3.211	github-production-repository-file-5c1aeb.s3.amazonaws.com
 151.101.1.194	github.global.ssl.fastly.net
 192.0.66.2	github.blog
@@ -90,4 +92,4 @@
 185.199.108.133	desktop.githubusercontent.com
 52.224.38.193	github.dev
 142.251.163.95	translate.googleapis.com
-172.253.115.100	translate.google.com
+142.250.10.100	translate.google.com
