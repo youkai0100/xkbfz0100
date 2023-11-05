@@ -1,4 +1,4 @@
-##### 更新时间2023-11-03 12:06:21 #####
+##### 更新时间2023-11-05 12:03:36 #####
 
 104.18.32.7	stackoverflow.com
 104.18.43.226	stackexchange.com
@@ -48,9 +48,8 @@
 140.82.114.25	live.github.com
 140.82.112.17	status.github.com
 16.182.99.153	github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.6.160	github-production-user-asset-6210df.s3.amazonaws.com
 140.82.112.4	github.com
-140.82.113.4	www.github.com
+140.82.114.3	www.github.com
 140.82.113.26	alive.github.com
 140.82.114.22	collector.githubapp.com
 185.199.108.154	github.githubassets.com
@@ -66,7 +65,6 @@
 185.199.108.153	github.io
 185.199.108.153	githubstatus.com
 185.199.108.153	documentcloud.github.com
-185.199.108.153	customer-stories-feed.github.com
 185.199.108.154	docs.github.com
 140.82.112.29	githubapp.com
 140.82.113.10	codeload.github.com
